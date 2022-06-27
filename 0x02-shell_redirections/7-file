@@ -1,3 +1,2 @@
-[master 23425ec] It is a good file te
- 1 file changed, 2 insertions(+)
- create mode 100755 0x02-shell_redirections/7-file
+#!/bin/bash
+echo Best School > \\\\\\\""Best School"\"\\\\\\$\\\?\\\\\\\\\\\\\\\*\:\)
